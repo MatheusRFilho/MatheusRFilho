@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Matheus Filho</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Um desenvolvedor apaixonado em aprender coisas novas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusrfilho&label=Profile%20views&color=0e75b6&style=flat" alt="matheusrfilho" /> </p>
 
