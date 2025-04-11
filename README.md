@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando para a **Devnology**
+- 🔭 Atualmente estou trabalhando para a **MyCareForce**
 
-- 🌱 Atualmente estou aprendendo **Flutter**
+- 🌱 Atualmente estou aprendendo **NestJS**
 
 - 📫 Para conversar comigo basta mandar uma mensagem para **matheusrodrigofilho@Outlook.com**
 
